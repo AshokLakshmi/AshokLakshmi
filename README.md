@@ -41,7 +41,7 @@
 <p align="center">
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website--blue?style=flat-square&logo=google-chrome"></a>
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin"></a>
-<a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ashoklakshmi1510/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ashoklakshmi1510-blue?style=flat-square&logo=instagram"></a>
 <a href="1510ashokrawat@gmail.com/"><img alt="Email" src="https://img.shields.io/badge/Email-1510ashokrawat@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
